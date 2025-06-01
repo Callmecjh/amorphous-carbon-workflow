@@ -3,7 +3,7 @@ This study presents a computational workflow for simulating disordered carbon st
 
 1. Training Workflow
 
-Implements an automated neural network potential (NNP) training cycle via the LASP software package.Automates: structural sampling → DFT calculations → NNP training → iterative refinement until target accuracy is achieved.
+Implements an automated neural network potential (NNP) training cycle via the LASP software package. Automates: structural sampling → DFT calculations → NNP training → iterative refinement until target accuracy is achieved.
 
 2. Voltage Workflow
 
