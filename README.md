@@ -8,8 +8,11 @@ Implements an automated neural network potential (NNP) training cycle via the LA
 2. Voltage Workflow
 
 Quantifies sodium storage behavior in arbitrary disordered carbon hosts by:
+
 (i) Identifying optimal Na⁺ adsorption sites
+
 (ii) Calculating thermodynamic energies at sequential sodiation concentrations
+
 (iii) Deriving voltage profiles from free energy landscapes
 
 Enables mechanistic interpretation of electrochemical performance variations across carbon architectures.
