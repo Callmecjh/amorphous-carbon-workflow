@@ -23,7 +23,7 @@ Performs atomistic structural fingerprinting including:
 
 (i) Hybridization analysis: sp/sp²/sp³ bond quantification
 
-(ii) Ring statistics: Identification of carbon rings (3–8 membered)
+(ii) Ring statistics: Identification of carbon rings (3–9 membered)
 
 (iii) Defect characterization: Edge/curvature defect mapping
 
