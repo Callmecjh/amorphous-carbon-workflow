@@ -1,13 +1,11 @@
 # amorphous-carbon-workflow
 This study presents a computational workflow for simulating disordered carbon structures, comprising three integrated modules:
 
-Training Workflow
+1. Training Workflow
 
-Implements an automated neural network potential (NNP) training cycle via the LASP software package.
+Implements an automated neural network potential (NNP) training cycle via the LASP software package.Automates: structural sampling → DFT calculations → NNP training → iterative refinement until target accuracy is achieved.
 
-Automates: structural sampling → DFT calculations → NNP training → iterative refinement until target accuracy is achieved.
-
-Voltage Workflow
+2. Voltage Workflow
 
 Quantifies sodium storage behavior in arbitrary disordered carbon hosts by:
 (i) Identifying optimal Na⁺ adsorption sites
@@ -16,15 +14,15 @@ Quantifies sodium storage behavior in arbitrary disordered carbon hosts by:
 
 Enables mechanistic interpretation of electrochemical performance variations across carbon architectures.
 
-Post-Processing Module
+3. Post-Processing Module
 
 Performs atomistic structural fingerprinting including:
 
-Hybridization analysis: sp/sp²/sp³ bond quantification
+(i) Hybridization analysis: sp/sp²/sp³ bond quantification
 
-Ring statistics: Identification of carbon rings (3–8 membered)
+(ii) Ring statistics: Identification of carbon rings (3–8 membered)
 
-Defect characterization: Edge/curvature defect mapping
+(iii) Defect characterization: Edge/curvature defect mapping
 
 Provides quantitative metrics for comparative structure-property analysis.
 
